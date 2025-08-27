@@ -3,6 +3,8 @@
   "name": "FlowDo - TODO管理插件",
   "version": "1.0.0",
   "description": "一个功能强大的Chrome浏览器TODO任务管理插件，支持任务分类、拖拽排序和智能提醒",
+  "author": "HanChn",
+  "homepage_url": "",
   "permissions": [
     "storage",
     "notifications",
